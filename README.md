@@ -1,5 +1,5 @@
 # Pick-a-Pic
-## An E-commerce web application for buying pictures from a database.
+## An image-based E-commerce web application for buying pictures from a database.
 
 ## Features:
 - Dynamic page and button styling when user favorites image or adds image to cart
