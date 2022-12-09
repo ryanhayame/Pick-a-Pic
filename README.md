@@ -21,7 +21,7 @@ HTML, CSS, JavaScript, and React
 ## Challenges and Lessons Learned:
 - Using React useState to create variables, mutate them, and let variables reactively change on web page
 - Using useEffect to pull images data from database
-- Creating and using custom hooks -- optimized and resused custom hook for favoriting and adding to cart functionality
+- Creating/using custom hooks -- optimized and resused custom hook for favoriting and adding to cart functionality
 - Practice using other React features such as Router and Context
 
 ## How to Run the Program:
