@@ -10,10 +10,10 @@ https://share.getcloudapp.com/v1uED0pv
 
 ## Screenshots:
 #### Home Page
-![](/screenshots/home.png)
+![](/screenshots/Home.png)
 
 #### Shopping Cart
-![](/screenshots/cart.png)
+![](/screenshots/Cart.png)
 
 ## Tech Stack:
 HTML, CSS, JavaScript, and React
